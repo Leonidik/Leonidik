@@ -33,7 +33,7 @@
    - Использование архитектуры REST для разработки учебного новостного портала.
    - Запуск PostgreSQL и Redis<br>https://github.com/Leonidik/Skillfactory
 
-<h3>Общий проффесиональный опыт</h3>
+<h3>Общий професcиональный опыт</h3>
 
    1. Разработка баз данных типовых компонентов для конструкторов и технологов.<br>
 https://www.glosys.ru/index.php/services/proektirovanie-baz-dannykh-standartizovannykh-komponentov-dlya-konstruktorov-i-tekhnologov.html
@@ -41,7 +41,7 @@ https://www.glosys.ru/index.php/services/proektirovanie-baz-dannykh-standartizov
 
 <b>Знание иностранных языков:</b> Английский, уровень B1 (промежуточный)
 
-<b>Образование:<b>   
+<b>Образование:</b>   
    
 <b>Текущее самообразование</b><br>
 Изучение практики применения таких элементов Python как MetaClass и Decoraters применительно к разработке моделей компьютерного зрения (CV) и обработки естественного языка (NLP).
