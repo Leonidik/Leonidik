@@ -70,7 +70,7 @@ https://www.glosys.ru/index.php/services/proektirovanie-baz-dannykh-standartizov
 Изучение практики применения таких элементов Python как MetaClass и Decoraters применительно к разработке моделей компьютерного зрения (CV) и обработки естественного языка (NLP).
 
 <b>Контакты</b><br>
-Telegram: @leonid_malov<br>
+Telegram: @leonid_malov (https://t.me/leonid_malov)<br>
 Телефон, WhatsApp: +7 916 435 61 34<br>
 Электронная почта: leonid.malov@gmail.com
  
