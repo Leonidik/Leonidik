@@ -30,17 +30,13 @@
    - Применение техники тонкой настройки предварительно обученной bert-base-multilingual-cases нейронной сети в конфигурации "Bert For Sequence Classification" для классификации бинарных текстов (библиотека Hugging Face - пакет трансформеров)
    - Разработка телеграм-бота (вопрос: исходный текст, ответ: числовое значение оценки тональности).
 
-<b>3. Pet проект: Разработка django приложения NewsPortal (новостной портал)</b>  
-   Ресурс: http://137.10.11.10:8000/news_portal &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Код: http://github.com/Leonidik/NewsPortal 
+<b>3. API для серверной части проекта по дистанционному определению чистоты пищевых тарелок</b>  
+   Ресурс: http://X.X.X.X:8000/clean_dirty &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Код: http://github.com/Leonidik/clean_dirty 
    - Применение техники тонкой настройки предварительно обученной bert-base-multilingual-cases нейронной сети в конфигурации "Bert For Sequence Classification" для классификации бинарных текстов (библиотека Hugging Face - пакет трансформеров)
    - Разработка телеграм-бота (вопрос: исходный текст, ответ: числовое значение оценки тональности).
+   - ip ресурса предоставляется по предварительной заявке - это персональный компьютер
 
-<b>4. API для серверной части проекта по дистанционному определению чистоты пищевых тарелок</b>  
-   Ресурс: http://137.10.11.10:8000/clean_dirty &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Код: http://github.com/Leonidik/clean_dirty 
-   - Применение техники тонкой настройки предварительно обученной bert-base-multilingual-cases нейронной сети в конфигурации "Bert For Sequence Classification" для классификации бинарных текстов (библиотека Hugging Face - пакет трансформеров)
-   - Разработка телеграм-бота (вопрос: исходный текст, ответ: числовое значение оценки тональности).
-
-<b>5. Учебные задачи курсов SkillFactory "Backend Python разработчик"</b>  
+<b>4. Учебные задачи курсов SkillFactory "Backend Python разработчик"</b>  
    Код: https://github.com/Leonidik/Skillfactory 
    - Запуск и администрирование Django.
    - Создание и изменение структуры базы данных SQL для каталога продукции
@@ -72,6 +68,6 @@ https://www.glosys.ru/index.php/services/proektirovanie-baz-dannykh-standartizov
 
 <b>Контакты</b><br>
 Telegram: @leonid_malov (https://t.me/leonid_malov)<br>
-Телефон, WhatsApp: +7 916 435 61 34<br>
+Телефон: +7 925 137 69 90<br>
 Электронная почта: leonid.malov@gmail.com
  
