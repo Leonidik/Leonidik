@@ -26,7 +26,7 @@
    - ip ресурса предоставляется по предварительной заявке - это персональный компьютер
 
 <b>2. Анализ тональности текста</b>  
-   Ресурс: https://176.107.241.37:8000/getection &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Код: http://github.com/Leonidik/Tonality
+   Ресурс: https://176.107.241.37:8000/detection &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Код: http://github.com/Leonidik/Tonality
    - Применение техники тонкой настройки предварительно обученной bert-base-multilingual-cases нейронной сети в конфигурации "Bert For Sequence Classification" для классификации бинарных текстов (библиотека Hugging Face - пакет трансформеров)
    - Разработка телеграм-бота (вопрос: исходный текст, ответ: числовое значение оценки тональности).
 
