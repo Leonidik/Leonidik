@@ -70,6 +70,5 @@ https://www.glosys.ru/index.php/services/proektirovanie-baz-dannykh-standartizov
 
 <b>Контакты</b><br>
 Telegram: @leonid_malov (https://t.me/leonid_malov)<br>
-Телефон: +7 925 137 69 90<br>
 Электронная почта: leonid.malov@gmail.com
  
